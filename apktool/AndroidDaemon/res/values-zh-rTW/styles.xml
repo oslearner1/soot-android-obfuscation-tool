@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StartBackground">
+        <item name="android:background">@drawable/new_welcome_cn</item>
+    </style>
+    <style name="MainBackgroudText">
+        <item name="android:background">@drawable/new_tip_text_cn</item>
+    </style>
+    <style name="TitleImage">
+        <item name="android:background">@drawable/new_title_text_cn</item>
+    </style>
+</resources>

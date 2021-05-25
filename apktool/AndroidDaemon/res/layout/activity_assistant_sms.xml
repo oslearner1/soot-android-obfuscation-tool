@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/detail_bgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/simbple_title" layout="@layout/include_simple_title_common_new" />
+    <ImageView android:id="@id/iv_logo" android:background="@drawable/sms_banner" android:layout_width="wrap_content" android:layout_height="@dimen/msg_helper_iv_logo_layout_height" />
+    <TextView android:textSize="@dimen/msg_helper_tv_copyright_textSize" android:textColor="@color/black_light" android:id="@id/tv_copyright" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/msg_helper_tv_copyright_marginTop" android:text="@string/msg_copyright" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/ll_reflash" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/msg_helper_ll_reflash_marginTop">
+        <ImageView android:background="@drawable/sms_reflash" android:layout_width="@dimen/msg_helper_iv_reflash_layout_width" android:layout_height="@dimen/msg_helper_iv_reflash_layout_height" />
+        <TextView android:textSize="@dimen/msg_helper_tv_reflash_textSize" android:textColor="@color/black_light" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/msg_helper_tv_reflash_marginTop" android:text="@string/msg_reflash" />
+    </LinearLayout>
+    <ListView android:id="@id/lv_msg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@color/black_light" android:divider="@color/dividing_line" android:dividerHeight="1.0px" android:minHeight="@dimen/msg_helper_lv_msg_minHeight" />
+</LinearLayout>

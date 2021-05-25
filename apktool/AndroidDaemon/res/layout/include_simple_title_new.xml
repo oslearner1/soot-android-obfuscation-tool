@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="#ff009ef9" android:paddingLeft="@dimen/new_title_padding_horization" android:paddingRight="@dimen/new_title_padding_horization" android:layout_width="fill_parent" android:layout_height="@dimen/new_title_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/bt_back" android:layout_width="@dimen/new_title_btn_back_size" android:layout_height="@dimen/new_title_btn_back_size" android:src="@drawable/new_back_btn" android:layout_centerVertical="true" />
+    <ImageView android:layout_width="@dimen/new_title_text_width" android:layout_height="@dimen/new_title_text_height" android:layout_centerHorizontal="true" android:layout_centerVertical="true" style="@style/TitleImage" />
+</RelativeLayout>

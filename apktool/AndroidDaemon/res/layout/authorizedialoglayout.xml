@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/pading_left" android:paddingRight="@dimen/pading_rigth" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLargeInverse" android:textSize="18.0dip" android:textColor="@color/dialog_tv1_textColor" android:id="@id/tv_bigTip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/authorize_msg1" />
+    <TextView android:textColor="@color/dialog_tv_hintColor" android:id="@id/tv_smallTip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/tv2_marginTop" android:layout_marginBottom="@dimen/tv2_marginBottom" android:text="@string/authorize_msg2" />
+</LinearLayout>

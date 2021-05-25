@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="top" android:layout_gravity="top" android:layout_width="@dimen/popupWindow_width" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/dialog_generic_layout_root" android:background="@drawable/xxx_bg_dialog" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/dialog_generic_layout_top" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/dialog_generic_layout_title" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.vivo.PCTools.view.HandyTextView android:textSize="@dimen/textSize_h4" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@id/dialog_generic_htv_title" android:layout_width="fill_parent" android:layout_height="@dimen/popupWindow_Title_height" android:soundEffectsEnabled="true" />
+                <View android:id="@id/dialog_generic_view_titleline" android:background="@color/dividing_line" android:layout_width="fill_parent" android:layout_height="@dimen/dividing_line_height" android:layout_marginTop="@dimen/popupWindow_Title_height" />
+                <Button android:id="@id/dialog_generic_btn_close" android:background="@drawable/xxx_close_normal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/dialog_generic_layout_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ScrollView android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:padding="@dimen/popupWindow_list_paddingLeft" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.vivo.PCTools.view.HandyTextView android:textSize="@dimen/textSize_h4" android:textColor="@color/black" android:gravity="center" android:id="@id/dialog_generic_htv_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/popupWindow_content_marginTop" android:layout_marginBottom="@dimen/popupWindow_content_marginBottom" />
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/dialog_generic_layout_bottom" android:paddingLeft="6.0dip" android:paddingTop="0.0dip" android:paddingRight="6.0dip" android:paddingBottom="12.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:textSize="@dimen/textSize_h4" android:layout_gravity="center" android:id="@id/dialog_generic_btn_button1" android:background="@drawable/popupwin_btn_selector" android:visibility="gone" android:layout_width="@dimen/popupWindow_btn_width" android:layout_height="@dimen/popupWindow_btn_height" />
+            <Button android:textSize="@dimen/textSize_h4" android:layout_gravity="center" android:id="@id/dialog_generic_btn_button2" android:background="@drawable/popupwin_btn_selector" android:visibility="gone" android:layout_width="@dimen/popupWindow_btn_width" android:layout_height="@dimen/popupWindow_btn_height" android:layout_marginLeft="@dimen/popupWindow_btn_margingLeft" />
+            <Button android:textSize="@dimen/textSize_h4" android:layout_gravity="center" android:id="@id/dialog_generic_btn_button3" android:background="@drawable/popupwin_btn_selector" android:visibility="gone" android:layout_width="@dimen/popupWindow_btn_width" android:layout_height="@dimen/popupWindow_btn_height" android:layout_marginLeft="@dimen/popupWindow_btn_margingLeft" style="@style/Style_Dialog_Button" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

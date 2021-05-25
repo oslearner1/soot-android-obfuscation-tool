@@ -1,0 +1,456 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/new_ftp_btn.xml
+SHA1-Digest: pNOsa4ngKiQiKMkhD1h6gKnmIzE=
+
+Name: res/drawable-hdpi/new_ftp_icon.png
+SHA1-Digest: hIC96AQJU/45z2SKKEl9WXKZciQ=
+
+Name: res/drawable-sw360dp-xxhdpi/ftp_notify_white.png
+SHA1-Digest: Tzxs3yICwVZCqcXjNTyzqFIqAY0=
+
+Name: res/layout/include_dialog_simplelist.xml
+SHA1-Digest: T74jZWOKLhHut4QWtQMRyJYpKps=
+
+Name: res/drawable-sw360dp-xhdpi/vivo_noti_pctools_white_01.png
+SHA1-Digest: 8YwrFW7X/ueHZOblMs5JJGIwKAA=
+
+Name: res/drawable-sw360dp-xhdpi/new_title_text_cn.png
+SHA1-Digest: eznmTBxqtmLER77cWTK2N4ObJzo=
+
+Name: res/drawable-hdpi/xxx_back_normal.png
+SHA1-Digest: vKmV/Zjcyz9azwtiNlch3M/+3zU=
+
+Name: res/layout/common_dialog_generic.xml
+SHA1-Digest: QgS0eWtHmC5JgbSnvPoP6FZ+uAk=
+
+Name: res/drawable-hdpi/et_enter_dialog_bg.9.png
+SHA1-Digest: rMErMA7kAyk8QPF0osh+CdxgnNA=
+
+Name: res/drawable/flatbutton.xml
+SHA1-Digest: oOWPoy8Vz4/6oJtaui9QcNUQEhE=
+
+Name: res/drawable-sw360dp-xxxhdpi/ftp_notify_white.png
+SHA1-Digest: /0uTM8du7TKeL9wuXJ04EVTpU2s=
+
+Name: res/drawable-hdpi/new_ftp_btn_normal.png
+SHA1-Digest: /fAHe+oeP23z+7E+7QpUvcUHbUM=
+
+Name: res/drawable-hdpi/new_tip_text_en.png
+SHA1-Digest: uavf7Z52aNW0PRYa32QD5v+DY/o=
+
+Name: res/drawable-sw360dp-hdpi/app_logo.png
+SHA1-Digest: BZyAd34Zj8RwL7UwgKFeB1zA3go=
+
+Name: res/drawable-hdpi/bt_enter_focus.9.png
+SHA1-Digest: 9iH9BsYi9F2ZqNi6Xg3LAzczoSc=
+
+Name: res/drawable-hdpi/vivo_noti_pctools_color_01.png
+SHA1-Digest: PHDuH5fSty+cYpjlgQx5ZoraloE=
+
+Name: res/drawable-hdpi/new_title_text_en.png
+SHA1-Digest: +PN7mWbVlGWsQRJqk6Tg8+PW8BY=
+
+Name: res/drawable-sw360dp-xxhdpi/vivo_noti_pctools_white_01.png
+SHA1-Digest: Xn24pBwlvs0llSbPogJWk8iSMsc=
+
+Name: res/drawable-hdpi/xxx_wifi.png
+SHA1-Digest: PLSf6UVWfiec5Eyh6z1TSUiYKF4=
+
+Name: res/drawable-sw360dp-xhdpi/new_mess_btn_clicked.png
+SHA1-Digest: DwS+FSZAXMJ/HTJgJuKh1tFhTJc=
+
+Name: res/drawable/btn_default.xml
+SHA1-Digest: 3CPKGsi8IivKAhayr1Z9n76UjQ4=
+
+Name: res/drawable-xhdpi/app_logo.png
+SHA1-Digest: NhmmTv62XjNxU3fl9NllUfo4aaA=
+
+Name: res/drawable-sw360dp-xxhdpi/app_logo.png
+SHA1-Digest: FSwqc4qkynOwHzq+Y7vfXv1sslc=
+
+Name: res/drawable/ftp_notify_icon_list.xml
+SHA1-Digest: KgtPHAVDbkhwE5CnznBiLnZxhak=
+
+Name: res/layout/include_simple_title.xml
+SHA1-Digest: I+hFdGbKu0Ll/5zp1JeTrHCt0eA=
+
+Name: res/drawable/bt_enter_selector.xml
+SHA1-Digest: u2cy3+stDFj6GoycLhbqwmxajWQ=
+
+Name: res/layout/include_simple_title_new.xml
+SHA1-Digest: RU95RM/8ny/Bvgr7ebYEkXDwxt4=
+
+Name: res/drawable-hdpi/new_mess_btn_normal.png
+SHA1-Digest: H8SzOz+lbX1UqVp30iQarllVsNw=
+
+Name: res/drawable-hdpi/wifi_state4.png
+SHA1-Digest: 2IvYtlamHTcGml3pWm3sKKUOqjc=
+
+Name: res/drawable/popupwin_btn_selector.xml
+SHA1-Digest: JCkB/33lniMGhh9rzQOtYHXxO9I=
+
+Name: res/drawable-sw360dp-xhdpi/new_tip_text_cn.png
+SHA1-Digest: IXoYqd09V/4nW6CBQV9M3+rPhKQ=
+
+Name: res/drawable-sw360dp-xxxhdpi/app_logo.png
+SHA1-Digest: 2RJOEGFXmMg+1smGxgLr+W+N/Js=
+
+Name: res/drawable-sw360dp-xhdpi/ftp_notify_black.png
+SHA1-Digest: 5c4MVCIzA8S2V66m/TvzhDR3AfQ=
+
+Name: res/drawable-hdpi/new_main_bg.png
+SHA1-Digest: DD57wATi5e+8u8tfX79ILEwTnvo=
+
+Name: res/drawable-sw360dp-xhdpi/vivo_noti_pctools_color_01.png
+SHA1-Digest: QfWxYYJbOSSLXsua1Zdw6n0AWMc=
+
+Name: res/layout/activity_assistant_dialog.xml
+SHA1-Digest: sQOeFtH482hZtru5w5xqjr6oscU=
+
+Name: res/raw/crystalring.ogg
+SHA1-Digest: vw2H8JReIt8tjcDxIowSSulgNxg=
+
+Name: res/drawable-hdpi/new_icon_back_clicked.png
+SHA1-Digest: vhETMAJ6E9ALW9N7z7MMcnzLAw0=
+
+Name: res/drawable-hdpi/title_background.png
+SHA1-Digest: Oeb0mk1by7XKJJ2QTAyUwOAW0HA=
+
+Name: res/drawable-ldpi/xxx_close_normal.png
+SHA1-Digest: 5N3yVLTMj/6F4R51uTuLec/I4/Q=
+
+Name: res/drawable-hdpi/new_tip_text_cn.png
+SHA1-Digest: IXoYqd09V/4nW6CBQV9M3+rPhKQ=
+
+Name: res/drawable-sw360dp-xhdpi/new_welcome_cn.png
+SHA1-Digest: 4huaPAN/k3aX92Mk+vIswkqItLU=
+
+Name: resources.arsc
+SHA1-Digest: nGH1zkoYK7fr9lWTfQWrpsmQARU=
+
+Name: org/jboss/netty/container/spring/beans.xml
+SHA1-Digest: Hi2fVrzmU0TCSnl7aap3zGYu7cQ=
+
+Name: res/drawable-hdpi/new_title_text_cn.png
+SHA1-Digest: eznmTBxqtmLER77cWTK2N4ObJzo=
+
+Name: res/drawable-sw360dp-xhdpi/new_ftp_icon.png
+SHA1-Digest: hIC96AQJU/45z2SKKEl9WXKZciQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WOkPn4IkpVIQAXBthEroQDD7UIg=
+
+Name: res/drawable/btn_back_selector.xml
+SHA1-Digest: noPWQbgp5OGCNQBD9lotyOYHGzw=
+
+Name: res/layout/input_dialog_layout.xml
+SHA1-Digest: TuzcvmU/hZ3wPv1myD6sFYZALoI=
+
+Name: res/drawable-hdpi/new_wifi_btn_normal.png
+SHA1-Digest: 2qspF9adWnsvaMX+fpJOunwxr3k=
+
+Name: res/drawable-sw360dp-xhdpi/new_ftp_btn_clicked.png
+SHA1-Digest: KXZmtguxMDxHJoC2RjTmpdwdyJA=
+
+Name: res/drawable/bt_start_share_selector.xml
+SHA1-Digest: rtlh5tzs6/cE/E47X+AddauR5Z4=
+
+Name: res/drawable-sw360dp-xxxhdpi/ftp_notify_black.png
+SHA1-Digest: vRHyul7YCvw2coIOtmwc0RC7+7w=
+
+Name: res/drawable-hdpi/new_usb_btn_normal.png
+SHA1-Digest: fryzrgfQMkZ+/tb9KMt+FEOgy2c=
+
+Name: res/drawable-sw360dp-xhdpi/new_usb_btn_clicked.png
+SHA1-Digest: odia3SYiA53My552X8ofaCPN9AM=
+
+Name: res/drawable-hdpi/new_mess_icon.png
+SHA1-Digest: yKA1ssD6wgpaZyKS3d5rOeRS7BU=
+
+Name: res/drawable-sw360dp-xxxhdpi/xxx_dlg_btn_normal.9.png
+SHA1-Digest: 2IxyIfwmREz7WVoh3RClP82Pdoc=
+
+Name: res/drawable-sw360dp-xxxhdpi/vivo_icon.png
+SHA1-Digest: /7k9cOTGBY8YDOL3tp3/wpU2xBs=
+
+Name: res/layout/activity_assistant_ftp.xml
+SHA1-Digest: EvJNOZLM7MG6ef1kUrde22F/x6I=
+
+Name: res/layout/activity_assistant_usb.xml
+SHA1-Digest: ZIoFLGlLsvW4ENvscXv45zFi0yQ=
+
+Name: res/drawable-sw360dp-xhdpi/new_wifi_btn_clicked.png
+SHA1-Digest: Tele9FgKxa+cPBKVb9Kei5pqlBM=
+
+Name: res/drawable-sw360dp-xhdpi/new_welcome_en.png
+SHA1-Digest: Z06aY05pYl5jrHXHX3o4UcCtb+E=
+
+Name: res/drawable/back_button_default_style.xml
+SHA1-Digest: Lpbkda+7/NQt3i7QbLeyFO9DXyY=
+
+Name: res/drawable/list_selector_transition.xml
+SHA1-Digest: Ih7G41orHiD8DCeLrbaDj8G08so=
+
+Name: res/drawable-sw360dp-xxxhdpi/xxx_bg_dialog.9.png
+SHA1-Digest: QAMUYb9V7EfP7Pu9MxYYpJ6Pexs=
+
+Name: res/drawable-hdpi/category_bar_mask.9.png
+SHA1-Digest: IiCS7/uyp+ri0wuSOKZz/deUUUA=
+
+Name: res/drawable-sw360dp-xhdpi/new_usb_icon.png
+SHA1-Digest: rlsPzhCZhCo+cxPqwHhW7vDSBaM=
+
+Name: res/layout/activity_assistant_main.xml
+SHA1-Digest: QMUXvS2Hbwvs0fGkC6w7C2crZ24=
+
+Name: res/layout/activity_assistant_wifi.xml
+SHA1-Digest: 1TXsigjj4jI+fLYeU6GOxIaIRvA=
+
+Name: res/drawable-hdpi/sms_reflash.png
+SHA1-Digest: WFg5lBIat4yn7IG+EK7ieif0xkk=
+
+Name: res/drawable-hdpi/new_usb_icon.png
+SHA1-Digest: rlsPzhCZhCo+cxPqwHhW7vDSBaM=
+
+Name: res/drawable-hdpi/start_share_focus.9.png
+SHA1-Digest: up95G1ef33JyP14ThHDyE72Vglc=
+
+Name: res/drawable-sw360dp-xxhdpi/ftp_icon.png
+SHA1-Digest: pxSF5upPopXTlz1m5EuqSoau1pE=
+
+Name: res/drawable-hdpi/vivo_noti_pctools_white_01.png
+SHA1-Digest: Qhd/jmGE7ALf2+NsR4R+LY96Mi4=
+
+Name: res/drawable-sw360dp-xhdpi/new_wifi_icon.png
+SHA1-Digest: X1vkdlTU3IOLFWhVC+kh31Ru6Y8=
+
+Name: res/layout/activity_assistant_passwd.xml
+SHA1-Digest: wFn6UJXZk4wtZuBCY+B6nKugqd0=
+
+Name: res/drawable-sw360dp-xxhdpi/vivo_icon.png
+SHA1-Digest: T+0wuBIwxeHv9MXF7JRa+S+z0SM=
+
+Name: res/drawable-sw360dp-xhdpi/ftp_notify_white.png
+SHA1-Digest: rjdSUA956DfxlzQwYoRH8T4SSFE=
+
+Name: res/drawable-hdpi/wifi_state0.png
+SHA1-Digest: jG/wrtw19mOIsw05WH9D1zACYAw=
+
+Name: res/anim/popup_out_anim.xml
+SHA1-Digest: kmWSoP/sGbxf3KSa6nOh1icRTT4=
+
+Name: res/drawable-sw360dp-xhdpi/new_icon_back.png
+SHA1-Digest: zDfOnqVoSCgG+ViCnxM2msrCaLM=
+
+Name: res/drawable-sw360dp-xxxhdpi/xxx_back_click.png
+SHA1-Digest: iaDQpHrfYOX9EHN/oAGiQfHJp6A=
+
+Name: res/drawable-hdpi/xxx_dlg_btn_normal.9.png
+SHA1-Digest: 2gl8TdN5uyrT1u3HaSXTrl6P2N0=
+
+Name: res/drawable-sw360dp-xhdpi/new_mess_icon.png
+SHA1-Digest: yKA1ssD6wgpaZyKS3d5rOeRS7BU=
+
+Name: res/anim/popup_in_anim.xml
+SHA1-Digest: v2rf3g7V56jHhvO0znyzllfJB8A=
+
+Name: res/drawable-hdpi/category_bar_empty.9.png
+SHA1-Digest: mAlJ62Xcs2F0TpttmtUsT1TugCo=
+
+Name: res/drawable/connect_pc_notify_icon_list.xml
+SHA1-Digest: bioba9UYiNwFi7pEKAcO6duE2Io=
+
+Name: res/drawable/bg_dialog_listitem_selector.xml
+SHA1-Digest: VsETxVMMg6iyK5J+gO3YLTQ84mg=
+
+Name: res/drawable-sw360dp-xxxhdpi/vivo_noti_pctools_color_01.png
+SHA1-Digest: fNA+cFolp2agNaDzhEgWtL9BaJI=
+
+Name: res/drawable-ldpi/xxx_back_normal.png
+SHA1-Digest: Dkzz5RmE6+sPxUCT8RyM62yh4Ao=
+
+Name: res/drawable-mdpi/xxx_back_click.png
+SHA1-Digest: qucHseDUVj8Zcd/FGt0P6agO/cw=
+
+Name: res/drawable/new_sms_btn.xml
+SHA1-Digest: ONvnLZOhjNzA5K2WH7msS9cRkXs=
+
+Name: res/drawable-hdpi/ftp_notify_white.png
+SHA1-Digest: pwUz1SvRYGyogwW+qJtvL3/hzxs=
+
+Name: res/drawable-hdpi/btn_big_normal_press.9.png
+SHA1-Digest: FQi/WxqecCSzL2T4r2awzcAg2AM=
+
+Name: res/drawable-mdpi/app_logo.png
+SHA1-Digest: /2VugQ+MzIussLq6VGYExUJ3YsQ=
+
+Name: res/drawable-hdpi/new_welcome_cn.png
+SHA1-Digest: 4huaPAN/k3aX92Mk+vIswkqItLU=
+
+Name: res/drawable-sw360dp-xhdpi/new_ftp_btn_normal.png
+SHA1-Digest: /fAHe+oeP23z+7E+7QpUvcUHbUM=
+
+Name: res/layout/activity_start.xml
+SHA1-Digest: dWHlBYLKeK9U2TlvX5LufKGP46c=
+
+Name: res/drawable-hdpi/btn_bottombar_disable.9.png
+SHA1-Digest: aD98owJc1FY8nmQHJrwC4NTP1Fc=
+
+Name: res/drawable-ldpi/xxx_back_click.png
+SHA1-Digest: qucHseDUVj8Zcd/FGt0P6agO/cw=
+
+Name: res/drawable-hdpi/new_mess_btn_clicked.png
+SHA1-Digest: DwS+FSZAXMJ/HTJgJuKh1tFhTJc=
+
+Name: res/raw/msg.mp3
+SHA1-Digest: 22yuDzwPvSsQPv3NXnm7F7OGoLc=
+
+Name: res/drawable-sw360dp-xxxhdpi/ftp_icon.png
+SHA1-Digest: DtQpxOuTk7XhQI3bn1sikmgu0m8=
+
+Name: res/layout/authorizedialoglayout.xml
+SHA1-Digest: D0CPH9r+41CJx+xugBwTWWmjaqM=
+
+Name: res/layout/activity_assistant_sms_item.xml
+SHA1-Digest: 2su9a0jtoyHnqAkMX2lJbTPIeRM=
+
+Name: res/drawable-hdpi/new_welcome_en.png
+SHA1-Digest: Z06aY05pYl5jrHXHX3o4UcCtb+E=
+
+Name: res/drawable-sw360dp-xhdpi/new_main_bg.png
+SHA1-Digest: DD57wATi5e+8u8tfX79ILEwTnvo=
+
+Name: res/drawable-mdpi/xxx_back_normal.png
+SHA1-Digest: Dkzz5RmE6+sPxUCT8RyM62yh4Ao=
+
+Name: res/drawable-hdpi/new_icon_back.png
+SHA1-Digest: zDfOnqVoSCgG+ViCnxM2msrCaLM=
+
+Name: res/drawable-sw360dp-xhdpi/new_mess_btn_normal.png
+SHA1-Digest: H8SzOz+lbX1UqVp30iQarllVsNw=
+
+Name: res/drawable-hdpi/vivo_icon.png
+SHA1-Digest: GM2Sa9RntN+Q5Oa9Oon3mJMlPuI=
+
+Name: res/drawable-sw360dp-xhdpi/vivo_icon.png
+SHA1-Digest: KqwIOqHgSLhUh4KwozGiaJi3Res=
+
+Name: res/drawable-hdpi/app_logo.png
+SHA1-Digest: NhmmTv62XjNxU3fl9NllUfo4aaA=
+
+Name: res/drawable-hdpi/new_wifi_icon.png
+SHA1-Digest: X1vkdlTU3IOLFWhVC+kh31Ru6Y8=
+
+Name: res/drawable-hdpi/xxx_dlg_btn_click.9.png
+SHA1-Digest: FMXDS7ZHWg5jLRnS8lVxn9GM41o=
+
+Name: res/drawable-hdpi/start_share_normal.9.png
+SHA1-Digest: XohMrk78CJUQ/Y5UWAyQp+rKBNM=
+
+Name: res/drawable-hdpi/xxx_bg_dialog.9.png
+SHA1-Digest: QAMUYb9V7EfP7Pu9MxYYpJ6Pexs=
+
+Name: res/drawable-hdpi/ftp_notify_black.png
+SHA1-Digest: YiKmuDmiay9aimuZPRzG6uxmhQ0=
+
+Name: res/drawable-sw360dp-xhdpi/ftp_icon.png
+SHA1-Digest: NNMYLbl7ZouVEITXugQuILnENR0=
+
+Name: res/drawable-sw360dp-xhdpi/app_logo.png
+SHA1-Digest: NhmmTv62XjNxU3fl9NllUfo4aaA=
+
+Name: res/drawable-hdpi/sms_banner.png
+SHA1-Digest: iiRieKgtha/bKtXF8gs2WKJG0jY=
+
+Name: res/drawable-hdpi/new_wifi_btn_clicked.png
+SHA1-Digest: Tele9FgKxa+cPBKVb9Kei5pqlBM=
+
+Name: res/layout/activity_assistant_sms.xml
+SHA1-Digest: Vco1PNvudtJ1HP5JHpil5uSuSKY=
+
+Name: res/drawable/new_usb_btn.xml
+SHA1-Digest: 7YgNUi9aYCJi8MJ7IQY7anADeMI=
+
+Name: res/drawable-sw360dp-xhdpi/new_usb_btn_normal.png
+SHA1-Digest: fryzrgfQMkZ+/tb9KMt+FEOgy2c=
+
+Name: res/drawable-hdpi/ftp_icon.png
+SHA1-Digest: B0lrwaW8/y9/ZOhSGQcKxqWVgR0=
+
+Name: res/drawable-hdpi/btn_big_normal_normal.9.png
+SHA1-Digest: VDxabeDVx6rE9tOK1oAI12bmdiQ=
+
+Name: res/drawable-sw360dp-xhdpi/new_wifi_btn_normal.png
+SHA1-Digest: 2qspF9adWnsvaMX+fpJOunwxr3k=
+
+Name: res/drawable-sw360dp-xxxhdpi/wifi_state4.png
+SHA1-Digest: SavNUm++hqMSYrUFq9GRWgm3DXs=
+
+Name: res/drawable-hdpi/new_ftp_btn_clicked.png
+SHA1-Digest: KXZmtguxMDxHJoC2RjTmpdwdyJA=
+
+Name: res/drawable-hdpi/xxx_usb.png
+SHA1-Digest: mDj+9Ioa7r8U6l5ecgeAdkBUxG4=
+
+Name: res/drawable-sw360dp-xxxhdpi/vivo_noti_pctools_white_01.png
+SHA1-Digest: k0I/MLGs8v3fzhDNHmu8ZZO7gRE=
+
+Name: res/drawable-hdpi/new_usb_btn_clicked.png
+SHA1-Digest: odia3SYiA53My552X8ofaCPN9AM=
+
+Name: res/drawable/new_back_btn.xml
+SHA1-Digest: UtrWNdtNdLg+AmPjFM5jz4MDZQg=
+
+Name: res/drawable-hdpi/btn_big_normal_disable.9.png
+SHA1-Digest: jBfJ/wnSleIUVnvN0I7qLRQIFbA=
+
+Name: res/drawable-sw360dp-xhdpi/new_icon_back_clicked.png
+SHA1-Digest: vhETMAJ6E9ALW9N7z7MMcnzLAw0=
+
+Name: res/drawable/new_wifi_btn.xml
+SHA1-Digest: mdZ4xcfRESYnvOG9b3IHsnrGQLM=
+
+Name: res/drawable-hdpi/ic_dropmenu_selector.png
+SHA1-Digest: ZT4jdMvoUukdTcJB29U2pLkLV1M=
+
+Name: res/drawable-mdpi/xxx_close_normal.png
+SHA1-Digest: 5N3yVLTMj/6F4R51uTuLec/I4/Q=
+
+Name: res/layout/listitem_dialog.xml
+SHA1-Digest: +BmUO1j2Wq+dt9I+EDn0sEC+fwM=
+
+Name: res/drawable-hdpi/bt_enter_normal.9.png
+SHA1-Digest: v5n2E4q9QVB80uIpKFnd3aC3LJw=
+
+Name: res/layout/ftp_control_activity.xml
+SHA1-Digest: WyfJoGEH/EbjfqURlkfB6mySclI=
+
+Name: res/drawable-sw360dp-xxxhdpi/wifi_state0.png
+SHA1-Digest: +mkl/EH83hsmDuEtM830kuHqQNQ=
+
+Name: res/drawable-sw360dp-xhdpi/new_title_text_en.png
+SHA1-Digest: +PN7mWbVlGWsQRJqk6Tg8+PW8BY=
+
+Name: res/drawable-sw360dp-xxxhdpi/xxx_back_normal.png
+SHA1-Digest: rnhyhB+ev1tmnG0WZGlaD0eOeI0=
+
+Name: res/drawable-sw360dp-xxhdpi/vivo_noti_pctools_color_01.png
+SHA1-Digest: YGh5lIZ9z2AO0pDGZ4Wjunvbw1Y=
+
+Name: res/layout/include_simple_title_common_new.xml
+SHA1-Digest: giCC0m9XMP5M688ARz/4shxRIGU=
+
+Name: classes.dex
+SHA1-Digest: iwL2d/vPEz+NXF9h4eOBxbXEhrQ=
+
+Name: res/drawable-sw360dp-xhdpi/new_tip_text_en.png
+SHA1-Digest: uavf7Z52aNW0PRYa32QD5v+DY/o=
+
+Name: res/drawable-hdpi/xxx_ftp.png
+SHA1-Digest: NiaY0FsU8c7NAyRdyQjAjLxdJ3Q=
+
+Name: res/drawable-sw360dp-xxxhdpi/xxx_dlg_btn_click.9.png
+SHA1-Digest: YxN38Xf8aZevg+nH5Q4A2+wQbxY=
+

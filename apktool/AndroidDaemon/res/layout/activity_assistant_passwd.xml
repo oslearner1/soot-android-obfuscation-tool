@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/detail_bgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/simbple_title" layout="@layout/include_simple_title_common_new" />
+    <EditText android:id="@id/password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/prompt_password" android:maxLines="1" android:singleLine="true" android:inputType="textPassword" android:imeOptions="actionUnspecified|normal" android:imeActionId="@id/login" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textColor="#ffffffff" android:id="@id/skip_button" android:background="@drawable/bt_start_share_selector" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/action_skip" />
+        <Button android:textColor="#ffffffff" android:id="@id/check_button" android:background="@drawable/bt_start_share_selector" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="16.0dip" android:text="@string/action_input" android:layout_toRightOf="@id/skip_button" />
+    </RelativeLayout>
+</LinearLayout>

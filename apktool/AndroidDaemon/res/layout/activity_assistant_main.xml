@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/detail_bgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/simbple_title" layout="@layout/include_simple_title_new" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/ll_btn_panel" android:background="#fff4f4f4" android:paddingTop="@dimen/new_main_btnpanel_paddingTop" android:layout_width="fill_parent" android:layout_height="@dimen/new_main_btnpanel_height" android:layout_alignParentBottom="true">
+        <RelativeLayout android:id="@id/rl_usb" android:layout_width="@dimen/new_main_btnfield_width" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="center" android:id="@id/rl_bg_usb" android:layout_width="@dimen/new_main_btnicon_size" android:layout_height="@dimen/new_main_btnicon_size" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/iv_bg_usb" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_usb_btn" />
+                <ImageView android:id="@id/iv_usb" android:background="@drawable/new_usb_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </RelativeLayout>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/vivo_module_btn_usb" android:layout_below="@id/rl_bg_usb" android:layout_centerHorizontal="true" style="@style/new_main_btn_text" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_wifi" android:layout_width="@dimen/new_main_btnfield_width" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="center" android:id="@id/rl_bg_wifi" android:layout_width="@dimen/new_main_btnicon_size" android:layout_height="@dimen/new_main_btnicon_size" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/iv_bg_wifi" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_wifi_btn" />
+                <ImageView android:id="@id/iv_wifi" android:background="@drawable/new_wifi_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </RelativeLayout>
+            <TextView android:id="@id/tv_wifi_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/rl_bg_wifi" android:layout_centerHorizontal="true" style="@style/new_main_btn_text" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_ftp" android:layout_width="@dimen/new_main_btnfield_width" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="center" android:id="@id/rl_bg_ftp" android:layout_width="@dimen/new_main_btnicon_size" android:layout_height="@dimen/new_main_btnicon_size" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/iv_bg_ftp" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_ftp_btn" />
+                <ImageView android:id="@id/iv_ftp" android:background="@drawable/new_ftp_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </RelativeLayout>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/vivo_module_btn_ftp" android:layout_below="@id/rl_bg_ftp" android:layout_centerHorizontal="true" style="@style/new_main_btn_text" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_sms" android:layout_width="@dimen/new_main_btnfield_width" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="center" android:id="@id/rl_bg_sms" android:layout_width="@dimen/new_main_btnicon_size" android:layout_height="@dimen/new_main_btnicon_size" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/iv_bg_sms" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_sms_btn" />
+                <ImageView android:id="@id/iv_sms" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_mess_icon" />
+            </RelativeLayout>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/vivo_module_btn_sms" android:layout_below="@id/rl_bg_sms" android:layout_centerHorizontal="true" style="@style/new_main_btn_text" />
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout android:background="@drawable/new_main_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ll_btn_panel" android:layout_below="@id/simbple_title">
+        <ImageView android:id="@id/img_title" android:layout_width="@dimen/new_main_background_text_width" android:layout_height="@dimen/new_main_background_text_height" android:layout_marginBottom="@dimen/new_main_background_text_marginButtom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/MainBackgroudText" />
+        <TextView android:textColor="#ff88ccff" android:gravity="center_horizontal" android:id="@id/tv_version" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:layout_above="@id/img_title" />
+    </RelativeLayout>
+</RelativeLayout>
